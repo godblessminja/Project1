@@ -13,7 +13,9 @@ and open the template in the editor.
         <?php
             echo "<b>This is me, the one and only</b><br /> <i>I am happy that i succeded to "
                     . "reach this point.</i>";
-            echo " This one too.";
+            echo " This one too.<br />";
+            
+            echo "It is just a function of time.";
         ?>
     </body>
 </html>
