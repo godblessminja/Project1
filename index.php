@@ -13,6 +13,7 @@ and open the template in the editor.
         <?php
             echo "<b>This is me, the one and only</b><br /> <i>I am happy that i succeded to "
                     . "reach this point.</i>";
+            echo " This one too.";
         ?>
     </body>
 </html>
